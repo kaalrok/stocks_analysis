@@ -10,9 +10,11 @@ Steve is familiar with using Excel to analyze and chart for stocks and investmen
 ## Results
 We found that using VBA was a huge asset in the initial analysis of the Green Stocks. 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/92065902/144769110-242d41cc-577b-48fe-a4b1-8649c90d8778.png)
+
 Results of 2017
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/92065902/144769123-84e8b707-0ba4-43e1-86ee-858e7d87c562.png)
+
 Results of 2018
 
 ## Advantages and Disadvantages of refracturing code
