@@ -7,10 +7,10 @@ The purpose of this project was to automate the analysis of the Green Stocks tha
 ## Background
 Steve is familiar with using Excel to analyze and chart for stocks and investments. But he realizes that it would take a great deal of time to sort through all the stocks. He asked me to check into creating an analysis using VBA, and then perhaps refracturing the original VBA code we created for him, on the basis of time. 
 
-#Results
+##Results
 We found that using VBA was a huge asset in the initial analysis of the Green Stocks. 
 
-#Summary
+##Summary
 ## Advantages and Disadvantages of refracturing code
 The refractured code is generally more organized and can be faster to run, but it wont do anything more than speed up the time of the compiled code. The disadvantages of refracturing code is that you are adding more code into the original, and may end up causing frustrations with errors. 
 
